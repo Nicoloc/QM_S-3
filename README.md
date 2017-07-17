@@ -1,2 +1,2 @@
 # QM_S-3
-An interior design assignment
+An interior design project
